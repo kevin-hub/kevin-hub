@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi! You have reached my Github
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, you have reached my Github!
 
 ### About Me
 I am a graduate software engineer with experience primarily in embedded electronics and robotics with a Master of Engineering in Electrical & Electronic Engineering. I really enjoyed focusing on software and mathematics throughout university. I have considerable experience working on collaborative and independent projects, which required both an ability to learn quickly and independently as well as collaborate effectively.  I am very excited to apply my skills to a software role. 
