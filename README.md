@@ -13,5 +13,5 @@ Imperial College London
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ### Stats
-[![Kevin's Stats](https://github-readme-stats.vercel.app/api?username=kevin-hub&show_icons=true&title_color=#000000&bg_color=#ffffff)](https://github.com/kevin-hub/github-readme-stats)
-[![Favourite Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-hub&hide=jupyter%20notebook,tex&langs_count=10&layout=compact&title_color=#000000&bg_color=#ffffff)](https://github.com/kevin-hub/github-readme-stats)
+[![Kevin's Stats](https://github-readme-stats.vercel.app/api?username=kevin-hub&show_icons=true&hide_title=true)](https://github.com/kevin-hub/github-readme-stats)
+[![Favourite Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-hub&hide=jupyter%20notebook,tex&langs_count=10&layout=compact&hide_title=true)](https://github.com/kevin-hub/github-readme-stats)
